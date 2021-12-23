@@ -5,4 +5,9 @@
 О чём здесь можно узнать:
 
 - [Непрерывная математика](Data/continious-math.md)
+
+- [Проектная деятельность](Data/projects.md)
+
+- [ФИИТ](Data/FIITarticle.txt)
+
 - [Социальные сети , которые используют мехматовцы](Data/social-networks.md)
