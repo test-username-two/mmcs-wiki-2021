@@ -6,3 +6,4 @@
 
 - [Непрерывная математика](Data/continious-math.md)
 
+- [ФИИТ](Data/FIITarticle.txt)
