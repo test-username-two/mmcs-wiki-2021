@@ -6,3 +6,4 @@
 
 - [Непрерывная математика](Data/continious-math.md)
 
+- [Проектная деятельность](Data/projects.md)
