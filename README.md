@@ -11,3 +11,5 @@
 - [ФИИТ](Data/FIITarticle.txt)
 
 - [Социальные сети , которые используют мехматовцы](Data/social-networks.md)
+
+- [Основы программирования](Data/bases-of-programming.md)
