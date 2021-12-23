@@ -9,3 +9,5 @@
 - [Проектная деятельность](Data/projects.md)
 
 - [ФИИТ](Data/FIITarticle.txt)
+
+- [Социальные сети , которые используют мехматовцы](Data/social-networks.md)
